@@ -1,7 +1,7 @@
 # Pairstride: Compare Videos
 A native iPhone and iPad utility for manually aligning two local clips at one shared event, viewing the common overlap and exporting a labeled comparison.
 
-**Status — October 19, 2026: in production. App Review submission pending.** TestFlight is skipped by publisher instruction. No public App Store availability is claimed.
+**Status — October 20, 2026 at 00:36 PDT: Pairstride 1.0 (1) and Lifetime Pro are Waiting for Review.** Submission ID `362f8ccc-8ced-48cf-90e4-a1758f8a1826`. V1 is frozen. TestFlight is skipped by publisher instruction. No public App Store availability is claimed.
 
 SwiftUI · AVFoundation · Core Image/Core Text · PhotosUI · StoreKit 2 · iOS 15+
 
